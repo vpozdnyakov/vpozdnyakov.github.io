@@ -43,5 +43,4 @@ Application of Generative Models for Risk Measurement in Commodity Trading
 Time Series Anomaly Detection Models
 
 ### Hard Skills
-Graph Neural Networks, Deep Generative Models, Time Series Forecasting, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git, ERP Systems
-
+Graph Neural Networks, Deep Generative Models, Time Series Forecasting, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git
