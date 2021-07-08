@@ -1,8 +1,6 @@
-# Vitaliy Pozdnyakov
 born in 1990\
 Moscow\
-e-mail: pozdnyakov.vitaliy@yandex.ru\
-GitHub: [github.com/vpozdnyakov](github.com/vpozdnyakov)
+e-mail: <pozdnyakov.vitaliy@yandex.ru>
 
 ### Experience
 7 years in IT, 1 year in data science, 1 year in education
