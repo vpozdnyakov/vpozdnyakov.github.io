@@ -13,10 +13,10 @@ Conducting practical classes “Machine Learning on Graphs”
 *2020 – now, HSE University (Moscow, education), Teacher*\
 Conducting practical classes “Network Science”
 
-*2016 – 2019, 1С Company (Moscow, software), Developer*\
+*2016 – 2019, 1С Company (Moscow, software), Backend Developer*\
 Design and development of the 1C:ERP system
 
-*2014 – 2016, Wikimart (Moscow, e-commerce), Developer*\
+*2014 – 2016, Wikimart (Moscow, e-commerce), Backend Developer*\
 Design and development of ERP systems
 
 *2012 – 2014, Partner LLC (Lipetsk, consulting), Programmer*\
