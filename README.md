@@ -1,3 +1,6 @@
+telegram: <https://t.me/pozdnyakov_vitaliy>\
+email: <pozdnyakov.vitaliy@yandex.ru>
+
 ### Experience
 7 years in IT, 1 year in data science, 1 year in education
 
