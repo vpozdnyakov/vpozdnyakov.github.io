@@ -25,7 +25,7 @@ Customer support, helpdesk
 
 ### Education
 *2019 – 2021, Moscow, Higher School of Economics*\
-Data Science, Master’s degree, with honors
+Data Science, Master’s degree
 
 *2007 – 2012, Lipetsk State Pedagogical University*\
 Information Systems and Technologies, Specialist’s degree
