@@ -46,5 +46,3 @@ Time Series Anomaly Detection Models
 ### Hard Skills
 Graph Neural Networks, Deep Generative Models, Time Series Analysis, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git, ERP Systems
 
-### Foreign Language	
-English — B2
