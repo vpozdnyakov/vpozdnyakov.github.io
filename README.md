@@ -2,16 +2,19 @@ telegram: <https://t.me/pozdnyakov_vitaliy>\
 email: <pozdnyakov.vitaliy@yandex.ru>
 
 ### Experience
-7 years in IT, 1 year in data science, 1 year in education
+7 years in IT, 1 year in research, 1 year in education
 
-*2020 – now, Laboratory of Methods for Big Data Analysis at HSE (Moscow, research), Researcher*\
-Research and development of machine learning methods
+*2021 - now, Artificial Intelligence Research Institute (Moscow, research), Researcher*\
+Research and development of machine learning methods, Industrial AI team
 
 *2020 – now, Academy of Big Data MADE (Moscow, education), Teacher*\
 Conducting practical classes “Machine Learning on Graphs”
 
 *2020 – now, HSE University (Moscow, education), Teacher*\
 Conducting practical classes “Network Science”
+
+*2020 – 2021, Laboratory of Methods for Big Data Analysis at HSE (Moscow, research), Researcher*\
+Research and development of machine learning methods
 
 *2016 – 2019, 1С Company (Moscow, software), Backend Developer*\
 Design and development of the 1C:ERP system
