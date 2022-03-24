@@ -2,7 +2,7 @@ telegram: <https://t.me/pozdnyakov_vitaliy>\
 email: <pozdnyakov.vitaliy@yandex.ru>
 
 ### Experience
-7 years in IT, 1 year in research, 1 year in education
+7 years in IT, 2 years in research, 2 years in education
 
 *2021 - now, Artificial Intelligence Research Institute (Moscow, research), Researcher*\
 Research and development of machine learning methods, Industrial AI team
