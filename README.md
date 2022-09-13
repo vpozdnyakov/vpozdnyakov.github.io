@@ -4,8 +4,8 @@ email: <pozdnyakov.vitaliy@yandex.ru>
 ### Experience
 7 years in IT, 2 years in research, 2 years in education
 
-*2021 - now, Artificial Intelligence Research Institute (Moscow, research), Researcher*\
-Research and development of machine learning methods, Industrial AI team
+*2021 - now, AIRI (Moscow, research), Researcher in Industrial AI team*\
+Research and development of machine learning methods
 
 *2020 – now, Academy of Big Data MADE (Moscow, education), Teacher*\
 Conducting practical classes “Machine Learning on Graphs”
