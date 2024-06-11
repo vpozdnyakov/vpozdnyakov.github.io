@@ -2,13 +2,18 @@ telegram: <https://t.me/pozdnyakov_vitaliy>\
 email: <pozdnyakov.vitaliy@yandex.ru>
 
 ### Experience
-7 years in IT, 3 years in research, 3 years in education
 
 *2021 – now, AIRI (Moscow, research), Research scientist*\
 Research and development of industrial artificial intelligence methods
 
 *2020 – now, HSE (Moscow, education), Instructor*\
-Conducting practical classes on Network Science
+Conducting lectures and practical classes on Network Science, Introduction to Neural Networks and Machine Translation
+
+*2022 – 2023, ISP RAS (Moscow, research), Junior Research Scientist*\
+Research and development of industrial artificial intelligence methods
+
+*2022 – 2023, LAMBDA at HSE (Moscow, research), Junior Research Scientist*\
+Research and development of industrial artificial intelligence methods
 
 *2020 – 2022, MADE (Moscow, education), Instructor*\
 Conducting practical classes on Machine Learning on Graphs
@@ -32,21 +37,13 @@ Data Science, Master’s degree
 *2007 – 2012, Lipetsk State Pedagogical University*\
 Information Systems and Technologies, Specialist’s degree
 
-### Research
-*2022, Fault diagnosis methods for chemical processes, AIRI*\
-We have trained transformer-based model using self-supervised learning and deep clustering. Our method outperforms existing approaches in unsupervised setting on chemical sensor data. TPR for fixed FPR 0.05 (SOTA/ours): 0.64/0.87.
-
-*2021, Probabilistic forecasting using deep generative models, HSE & BCG Gamma*\
-We have shown that existing deep probabilistic forecasting methods can be represented as a framework on the type of neural networks and the type of generative models. We have proposed forecasting approach based on GAN and TCN that shows promising results for future research.
-
-*2021, Digital twins for production of superconductors, LAMBDA at HSE*\
-We have designed a digital twin of the tool for producing superconductors based on deep probabilistic forecasting model DeepAR. It is used to find optimal operating modes and adjust parameters of production.
-
 #### Publications
 
-*Kovalenko, A., Pozdnyakov, V. and Makarov, I., 2022. Graph Neural Networks with Trainable Adjacency Matrices for Fault Diagnosis on Multivariate Sensor Data.International Conference on Industrial Information Integration. arXiv preprint arXiv:2210.11164.* [arXiv preprint](https://arxiv.org/abs/2210.11164)
+*Pozdnyakov, Vitaliy, et al. "Adversarial Attacks and Defenses in Fault Detection and Diagnosis: A Comprehensive Benchmark on the Tennessee Eastman Process." IEEE Open Journal of the Industrial Electronics Society (2024).*
 
-*Golyadkin, M., Pozdnyakov, V., Zhukov, L. and Makarov, I., 2022. SensorSCAN: Self- Supervised Learning and Deep Clustering for Fault Diagnosis in Chemical Processes. arXiv preprint arXiv:2208.08879.* [arXiv preprint](https://arxiv.org/abs/2208.08879)
+*Golyadkin, Maksim, et al. "SensorSCAN: Self-supervised learning and deep clustering for fault diagnosis in chemical processes." Artificial Intelligence 324 (2023): 104012.*
+
+*Kovalenko, A., Pozdnyakov, V. and Makarov, I., 2022. Graph Neural Networks with Trainable Adjacency Matrices for Fault Diagnosis on Multivariate Sensor Data.International Conference on Industrial Information Integration. arXiv preprint arXiv:2210.11164.*
 
 ### Hard Skills
 Graph Neural Networks, Deep Generative Models, Time Series Forecasting, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git
