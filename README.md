@@ -3,23 +3,22 @@ email: <pozdnyakov.vitaliy@yandex.ru>
 
 ### Experience
 
-*2021 – now, AIRI (Moscow, research), Research scientist*\
+*2021 – now, AIRI (Moscow, research), Junior research scientist*\
 Research and development of industrial artificial intelligence methods
 
 *2020 – now, HSE (Moscow, education), Instructor*\
 Conducting lectures and practical classes on Network Science, Introduction to Neural Networks and Machine Translation
 
-*2022 – 2023, ISP RAS (Moscow, research), Junior Research Scientist*\
+*2022 – 2023, ISP RAS (Moscow, research), Junior research scientist*\
 Research and development of industrial artificial intelligence methods
 
-*2022 – 2023, LAMBDA at HSE (Moscow, research), Junior Research Scientist*\
+*LAMBDA at HSE (Moscow, research)*\
+*2022 – 2023, Junior research scientist*\
+*2020 - 2022, Research intern*\
 Research and development of industrial artificial intelligence methods
 
 *2020 – 2022, MADE (Moscow, education), Instructor*\
 Conducting practical classes on Machine Learning on Graphs
-
-*2020 – 2021, LAMBDA at HSE (Moscow, research), Research intern*\
-Research and development of industrial machine learning methods
 
 *2016 – 2019, 1С (Moscow, software), Backend developer*\
 Design and development of the 1C:ERP system
