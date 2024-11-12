@@ -1,5 +1,6 @@
 telegram: <https://t.me/pozdnyakov_vitaliy>\
-email: <pozdnyakov.vitaliy@yandex.ru>
+email: <pozdnyakov.vitaliy@yandex.ru>\
+scholar: <https://scholar.google.com/citations?user=PfOZ7HgAAAAJ>
 
 ### Experience
 
@@ -48,19 +49,26 @@ Information Systems and Technologies, Specialist’s degree
 
 #### Public talks
 
-- 2024, Digital twins and adversarial attacks on industrial monitoring systems, Yandex
+2024, Digital twins and adversarial attacks on industrial monitoring systems, Yandex
 Studcamp on Maths in AI 2024, Innopolis
-- 2023, A tutorial on model validation using deep generation of stress data, Data Science
+
+2023, A tutorial on model validation using deep generation of stress data, Data Science
 Conference 2023, Belgrade, Serbia
-- 2023, A tutorial on model validation using deep generation of stress data, ACM
-conference on Economics and Computation 2023, Online
-- 2023, Introduction to ML on graphs, AIRI Summer School, Innopolis
-- 2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data,
+
+2023, A tutorial on model validation using deep generation of stress data, ACM
+conference on Economics and Computation 2023, [Online](https://sites.google.com/view/stress-data-ec23)
+
+2023, Introduction to ML on graphs, AIRI Summer School, Innopolis
+
+2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data,
 "Science of the future" forum, Novosibirsk
-- 2022, Graph methods in social models: from viral marketing to epidemics, "I love
+
+2022, Graph methods in social models: from viral marketing to epidemics, "I love
 economics" summer school, Moscow
-- 2022, AI for industrial internet of things, "Future expo" festival, Online
-- 2021, Community detection in social networks, "ODS: ML in marketing" meetup, Online
+
+2022, AI for industrial internet of things, "Future expo" festival, [Online](https://www.youtube.com/live/uVmyd0xpAko?si=DQ6EeOhRAR_5_GWQ)
+
+2021, Community detection in social networks, "ODS: ML in marketing" meetup, [Online](https://youtu.be/1pm5Qw468AI?si=Y30eOMRSu1V9ltY1)
 
 ### Hard Skills
 Graph Neural Networks, Deep Generative Models, Time Series Forecasting, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git
