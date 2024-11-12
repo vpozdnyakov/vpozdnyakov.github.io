@@ -42,7 +42,25 @@ Information Systems and Technologies, Specialist’s degree
 
 *Golyadkin, Maksim, et al. "SensorSCAN: Self-supervised learning and deep clustering for fault diagnosis in chemical processes." Artificial Intelligence 324 (2023): 104012.*
 
-*Kovalenko, A., Pozdnyakov, V. and Makarov, I., 2022. Graph Neural Networks with Trainable Adjacency Matrices for Fault Diagnosis on Multivariate Sensor Data.International Conference on Industrial Information Integration. arXiv preprint arXiv:2210.11164.*
+*Kovalenko, Aleksandr, Vitaliy Pozdnyakov, and Ilya Makarov. "Graph neural networks with trainable adjacency matrices for fault diagnosis on multivariate sensor data." IEEE Access (2024).*
+
+*Pozdnyakov, Vitaliy, et al. ‘AADMIP: Adversarial Attacks and Defenses Modeling in Industrial Processes’. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, IJCAI-24.*
+
+#### Public talks
+
+- 2024, Digital twins and adversarial attacks on industrial monitoring systems, Yandex
+Studcamp on Maths in AI 2024, Innopolis
+- 2023, A tutorial on model validation using deep generation of stress data, Data Science
+Conference 2023, Belgrade, Serbia
+- 2023, A tutorial on model validation using deep generation of stress data, ACM
+conference on Economics and Computation 2023, Online
+- 2023, Introduction to ML on graphs, AIRI Summer School, Innopolis
+- 2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data,
+"Science of the future" forum, Novosibirsk
+- 2022, Graph methods in social models: from viral marketing to epidemics, "I love
+economics" summer school, Moscow
+- 2022, AI for industrial internet of things, "Future expo" festival, Online
+- 2021, Community detection in social networks, "ODS: ML in marketing" meetup, Online
 
 ### Hard Skills
 Graph Neural Networks, Deep Generative Models, Time Series Forecasting, Python (numpy, pandas, scikit-learn, pytorch, networkx, DGL), SQL, Git
