@@ -58,6 +58,8 @@ Conference 2023, Belgrade, Serbia
 2023, A tutorial on model validation using deep generation of stress data, ACM
 conference on Economics and Computation 2023, [Online](https://sites.google.com/view/stress-data-ec23)
 
+2023, Model validation using deep generation of stress data, AI Journey 2023, [Online](https://aij.ru/archive?albumId=2&topic=NaN&videoId=332)
+
 2023, Introduction to ML on graphs, AIRI Summer School, Innopolis
 
 2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data,
