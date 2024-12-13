@@ -39,7 +39,7 @@ Information Systems and Technologies, Specialist’s degree
 
 #### Publications
 
-*Kazadaev, Maksim, et al. ‘Time Series Generation with GANs for Momentum Effect Simulation on Moscow Stock Exchange’. 2024 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr), 2024, pp. 1–7, https://doi.org/10.1109/CIFEr62890.2024.10772763.*
+*Kazadaev, Maksim, Vitaliy Pozdnyakov, and Ilya Makarov. "Time Series Generation with GANs for Momentum Effect Simulation on Moscow Stock Exchange." 2024 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr). IEEE, 2024.*
 
 *Pozdnyakov, Vitaliy, et al. "Adversarial Attacks and Defenses in Fault Detection and Diagnosis: A Comprehensive Benchmark on the Tennessee Eastman Process." IEEE Open Journal of the Industrial Electronics Society (2024).*
 
