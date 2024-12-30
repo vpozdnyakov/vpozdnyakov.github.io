@@ -39,7 +39,7 @@ Information Systems and Technologies, Specialist’s degree
 
 #### Publications
 
-*D. Fomin, I. Makarov, M. Voronina, A. Strimovskaya and V. Pozdnyakov, "Heterogeneous Graph Attention Networks for Scheduling in Cloud Manufacturing and Logistics," in IEEE Access, doi: 10.1109/ACCESS.2024.3522020*
+*D. Fomin, I. Makarov, M. Voronina, A. Strimovskaya and V. Pozdnyakov, "Heterogeneous Graph Attention Networks for Scheduling in Cloud Manufacturing and Logistics," in IEEE Access, doi: 10.1109/ACCESS.2024.3522020.*
 
 *Kazadaev, Maksim, Vitaliy Pozdnyakov, and Ilya Makarov. "Time Series Generation with GANs for Momentum Effect Simulation on Moscow Stock Exchange." 2024 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr). IEEE, 2024.*
 
@@ -53,24 +53,23 @@ Information Systems and Technologies, Specialist’s degree
 
 #### Public talks
 
-2024, Digital twins and adversarial attacks on industrial monitoring systems, Yandex
-Studcamp on Maths in AI 2024, Innopolis
+2024, Time Series Generation with GANs for Momentum Effect Simulation on Moscow Stock Exchange, Symposium on Computational Intelligence for Financial Engineering and Economics, Hoboken, USA
 
-2023, A tutorial on model validation using deep generation of stress data, Data Science
-Conference 2023, Belgrade, Serbia
+2024, AADMIP: Adversarial Attacks and Defenses Modeling in Industrial Processes, International Joint Conference on Artificial Intelligence, Jeju, South Korea
 
-2023, A tutorial on model validation using deep generation of stress data, ACM
-conference on Economics and Computation 2023, [Online](https://sites.google.com/view/stress-data-ec23)
+2024, Digital twins and adversarial attacks on industrial monitoring systems, Yandex Studcamp on Maths in AI 2024, Innopolis
+
+2023, A tutorial on model validation using deep generation of stress data, Data Science Conference 2023, Belgrade, Serbia
+
+2023, A tutorial on model validation using deep generation of stress data, ACM conference on Economics and Computation 2023, [Online](https://sites.google.com/view/stress-data-ec23)
 
 2023, Model validation using deep generation of stress data, AI Journey 2023, [Online](https://aij.ru/archive?albumId=2&topic=NaN&videoId=332)
 
 2023, Introduction to ML on graphs, AIRI Summer School, Innopolis
 
-2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data,
-"Science of the future" forum, Novosibirsk
+2022, Self-supervised learning for fault diagnosis in industrial processes on sensor data, "Science of the future" forum, Novosibirsk
 
-2022, Graph methods in social models: from viral marketing to epidemics, "I love
-economics" summer school, Moscow
+2022, Graph methods in social models: from viral marketing to epidemics, "I love economics" summer school, Moscow
 
 2022, AI for industrial internet of things, "Future expo" festival, [Online](https://www.youtube.com/live/uVmyd0xpAko?si=DQ6EeOhRAR_5_GWQ)
 
