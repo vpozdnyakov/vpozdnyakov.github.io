@@ -39,6 +39,8 @@ Information Systems and Technologies, Specialist’s degree
 
 #### Publications
 
+*D. Fomin, I. Makarov, M. Voronina, A. Strimovskaya and V. Pozdnyakov, "Heterogeneous Graph Attention Networks for Scheduling in Cloud Manufacturing and Logistics," in IEEE Access, doi: 10.1109/ACCESS.2024.3522020*
+
 *Kazadaev, Maksim, Vitaliy Pozdnyakov, and Ilya Makarov. "Time Series Generation with GANs for Momentum Effect Simulation on Moscow Stock Exchange." 2024 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr). IEEE, 2024.*
 
 *Pozdnyakov, Vitaliy, et al. "Adversarial Attacks and Defenses in Fault Detection and Diagnosis: A Comprehensive Benchmark on the Tennessee Eastman Process." IEEE Open Journal of the Industrial Electronics Society (2024).*
